@@ -85,4 +85,8 @@ BruceLee role not changed to: Viewer
 
 This script provides a streamlined solution for managing user roles on Tableau Server, ensuring that roles are synchronized efficiently and accurately. With detailed logging and report generation, it offers both transparency and accountability in the role management process.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
