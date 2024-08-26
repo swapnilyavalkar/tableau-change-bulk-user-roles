@@ -1,9 +1,9 @@
 
-#### Tableau Server User Roles Update Script
+#### Tableau Server Bulk Users Roles Update Script
 
 ## Overview
 
-This Python script automates the process of updating user roles on a Tableau Server based on data from a CSV file. It connects to the Tableau Server, checks the current roles of specified users, and updates them if necessary. After making changes, it logs the updates and exports a report detailing the restored access to an Excel file.
+This Python script automates the process of updating BULK users roles on a Tableau Server based on data from a CSV file. It connects to the Tableau Server, checks the current roles of specified users, and updates them if necessary. After making changes, it logs the updates and exports a report detailing the restored access to an Excel file.
 
 ## Features
 
