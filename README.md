@@ -83,7 +83,7 @@ BruceLee role not changed to: Viewer
 
 ## Conclusion
 
-This script provides a streamlined solution for managing user roles on Tableau Server, ensuring that roles are synchronized efficiently and accurately. With detailed logging and report generation, it offers both transparency and accountability in the role management process.
+This script provides a streamlined solution for managing user roles on Tableau Server, ensuring that roles are updated efficiently and accurately. With detailed logging and report generation, it offers both transparency and accountability in the role management process.
 
 ## License
 
